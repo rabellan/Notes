@@ -42,3 +42,7 @@ Finally, pull requests are welcome! Thank you to those who have made contributio
 - [Incident Management](interview-study-notes-for-security-engineering.md#incident-management)
 - [Coding & Algorithms](interview-study-notes-for-security-engineering.md#coding--algorithms)
 - [Security Themed Coding Challenges](interview-study-notes-for-security-engineering.md#security-themed-coding-challenges)
+
+## New Notes from Roland Abellano
+
+I cloned this repo from [Grace Nolan's github repo](https://github.com/gracenolan/Notes) 
